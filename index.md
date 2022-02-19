@@ -22,9 +22,9 @@
   - Results: First release of standard work for the redesigned process implemented on 12/04/2021.
 - Connected the MBA and SE programs at PFW to advance their efforts in developing a new concentration in Engineering Management for the MBA Program targeted to the emerging needs of the students.
 - Re-designed manufacturing systems for 4 leading companies of Indiana to meet their customer demands.
-  - Results: Trained team members on creating and implementing standard work methods.
-        - Improved the Overall Equipment Effectiveness from 75% to 85%. 
-        - Saved 2100 sq. ft. of floor space.
+  - Trained team members on creating and implementing standard work methods.
+  - Improved the Overall Equipment Effectiveness from 75% to 85%. 
+  - Saved 2100 sq. ft. of floor space.
 - Designed and assisted in teaching courses at PFW as a Graduate Assistant.
 
 ## TRITON METAL PRODUCTS, Hamilton, IN
@@ -34,19 +34,19 @@
 - Introduced the concept of and implemented production Dashboards.
 - Implemented Kaizen (continuous improvement) 5S throughout the facility in a sustainable manner.
 - Converted 80% of production from departmental layout to cellular manufacturing system to meet customer demand.
-    - Results: Reduced setup time by 80%
-          - Reduced lead time (customer order to product delivery timeline) from 4 weeks to 9 hours.
-          - Reduced Work in Process inventory from 80,000 parts to 500 parts
-          - Reduced floor space by 30%
-          - Reduced from 100+ work orders to just 1work order per specific product per customer
-          - Eliminated the need for final inspection through the standard work methods
-          - Designed productive and stress-free working environment with enhanced cross-training
+    - Reduced setup time by 80%
+    - Reduced lead time (customer order to product delivery timeline) from 4 weeks to 9 hours
+    - Reduced Work in Process inventory from 80,000 parts to 500 parts
+    - Reduced floor space by 30%
+    - Reduced from 100+ work orders to just 1work order per specific product per customer
+    - Eliminated the need for final inspection through the standard work methods
+    - Designed productive and stress-free working environment with enhanced cross-training
 
 ### Training Coordinator
 - Trained team members across the shifts on the company policies and standard work methods
 
 ## MOL Pakistan Oil & Gas Co. B.V., Peshawar, Pakistan
-Corporate Services Intern
+### Corporate Services Intern
 - Streamlined the processes in procurement and Logistics Departments in Head Office, Islamabad.
 - Managed the inventory using Maximo Software
 - Created a 40+ page drilling catalog for the company that integrates information about all the tools, the category of tools, uses of tools, and associated suppliers along with visuals. This catalog is used for training the new employees in the company.
