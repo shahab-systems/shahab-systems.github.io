@@ -19,7 +19,7 @@
 ## CENTER OF EXCELLENCE IN SYSTEMS ENGINEERING
 ### Graduate Research Assistant at Purdue Fort Wayne (PFW), IN
 - Designing PFW Student Success Life Cycle Standard Process to improve student success and retention by streamlining the student experience so that it is more user-friendly, logical, and consistent throughout PFW.
-  - Results: First release of standard work for the redesigned process implemented on 12/04/2021.
+  - First release of standard work for the redesigned process implemented on 12/04/2021.
 - Connected the MBA and SE programs at PFW to advance their efforts in developing a new concentration in Engineering Management for the MBA Program targeted to the emerging needs of the students.
 - Re-designed manufacturing systems for 4 leading companies of Indiana to meet their customer demands.
   - Trained team members on creating and implementing standard work methods.
@@ -30,7 +30,7 @@
 ## TRITON METAL PRODUCTS, Hamilton, IN
 ### Systems and Manufacturing Engineer
 - Led the leadership team by facilitating system redesign engagement for the New Part Introduction Process 
-    - Results: 98% on-time delivery of new parts.
+    - Achieved 98% on-time delivery of new parts.
 - Introduced the concept of and implemented production Dashboards.
 - Implemented Kaizen (continuous improvement) 5S throughout the facility in a sustainable manner.
 - Converted 80% of production from departmental layout to cellular manufacturing system to meet customer demand.
