@@ -8,7 +8,6 @@
 - Won academic and research grants totaling approximately up to $200,000.
 - Published articles in international conferences for business sustainability.
 
-
 # Education
 
 - Master of Business Administration (MBA), PFW IN, AACSB Accredited, GPA: 4.0	                                                 2020 - Present (Grad. 2022)
@@ -52,19 +51,19 @@ Corporate Services Intern
 - Managed the inventory using Maximo Software
 - Created a 40+ page drilling catalog for the company that integrates information about all the tools, the category of tools, uses of tools, and associated suppliers along with visuals. This catalog is used for training the new employees in the company.
 
-* Skills
+# Skills
 
 - Interpersonal Skills: Systems Thinking, Communication & Presentation, Analytical, Collaborative Leadership, Technical Curiosity, Fast-Paced adapter, Document Control, Fund Raising.
 - Technical Skills: Trainer, Problem Solving, Project Management, Lean Six Sigma, Statistical Process Control (SPC), Process Failure Mode and Effect (PFMEA) Analysis, Root Cause Analysis, 8D, Line Balancing, Time Study, Single Minute Exchange of Die (SMED), Kanban, Single Piece Flow, Value Stream Mapping, PDCA, APQP, PPAP, Poka-Yoke, PM, ERP System, Cost Reduction.
 
-* Certifications
+# Certifications
 
 - Strategic Doing, 
 - Lean Six Sigma Green Belt, 
 - Finite Element Analysis Simulation with SolidWorks
 - MS Office
 
-* Accomplishments
+# Accomplishments
 
 - Guest Speaker at 
   - American Society of Quality
@@ -72,7 +71,7 @@ Corporate Services Intern
   - SE 55000 Course at PFW
 - Student Chapter President at National Society of Professional Engineers (NSPE), PFW in 2018. 
 
-* Publications
+# Publications
 
 -  Shah S. A. Using the Collective System Design Approach to Facilitate a Sustainable Manufacturing System. Purdue University Graduate School. Thesis; 2019.
 -  Shah, S. A., Smith, J. J., and Cochran, D. S. Guiding Manufacturing Enterprises to Achieve Long-Term Business Sustainability Using the Collective System Design Approach. MATEC Web of Conferences; 2018. 223:01015 (2018).
