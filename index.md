@@ -11,9 +11,24 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Summary
+
+- Experienced in redesigning systems for streamlining the information and product flow across all departments.
+- Proficient in (re)designing and implementing lean-linked cell manufacturing systems.
+- Skilled in training team members based on Training Within Industry (TWI) Principles.
+- 5+ years of Continuous Improvement experience in Education and Manufacturing industry settings.
+- Initiated collaborations between Purdue University Fort Wayne and Northwestern University
+- Won academic and research grants totaling approximately up to $200,000.
+- Published articles in international conferences for business sustainability.
+
+
+# Education
+
+# Experience
+
+## CENTER OF EXCELLENCE IN SYSTEMS ENGINEERING
+
+## TRITON METAL PRODUCTS, Hamilton, IN
 
 - Bulleted
 - List
